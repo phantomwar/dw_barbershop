@@ -10,3 +10,9 @@ sealed class ColorsConstants {
 sealed class FontConstants {
   static const String fontFamily = 'Poppins';
 }
+
+sealed class ImageConstants {
+  static const String logo = 'assets/images/imgLogo.png';
+  static const String background = 'assets/images/background_image_chair.jpg';
+  static const String avatar = 'assets/images/avatar.png';
+}
